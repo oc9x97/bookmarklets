@@ -5,4 +5,5 @@ these are for all my friends out there, talking to you jace.
 # what we have?
 well we got  
 **editable.js** - weak inspect element  
-**proxy.js** - bypass the school blocking sites
+**proxy.js** - bypass the school blocking sites  
+**ip.js** - just shows your ip address lmao
