@@ -7,5 +7,5 @@ well we got
 **editable.js** - weak inspect element  
 **proxy.js** - bypass the school blocking sites  
 **proxy2.js** - if the previous proxy is monkeying  
-**test.js** - see if your orginization allows bookmarklets
+**test.js** - see if your orginization allows bookmarklets  
 **proxy3.js** - pretty fire about:blank proxy
