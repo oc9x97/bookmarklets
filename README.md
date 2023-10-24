@@ -6,4 +6,4 @@ these are for all my friends out there, talking to you jace.
 well we got  
 **editable.js** - weak inspect element  
 **proxy.js** - bypass the school blocking sites  
-**ip.js** - just shows your ip address lmao
+**proxy2.js** - if the previous proxy is monkeying
