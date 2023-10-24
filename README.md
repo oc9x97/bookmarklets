@@ -5,4 +5,4 @@ these are for all my friends out there, talking to you jace.
 # what we have?
 well we got  
 **editable.js** - weak inspect element
-**tabspam.js** - spam open tabs (lags but fucks goguardian)
+**proxy.js** - bypass the school blocking sites
